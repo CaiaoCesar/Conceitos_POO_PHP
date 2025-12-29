@@ -1,0 +1,3 @@
+Titulo: Primeiro Post, Conteudo: Este é o conteúdo do primeiro post., Data: 23/12/2025, Autor: Autor1<br />
+Titulo: Segundo Post, Conteudo: Este é o conteúdo do segundo post., Data: 24/12/2025, Autor: Autor2<br />
+Titulo: Terceiro Post, Conteudo: Natal é o conteúdo do terceiro post., Data: 25/12/2025, Autor: Autor3<br />
